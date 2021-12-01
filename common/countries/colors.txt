@@ -4,6 +4,16 @@ PAP = {
 	color = rgb { 250 255 156 }
 	color_ui = rgb { 250 255 156 }
 }
+SAR = {
+	color = rgb { 13 157 219 }
+	color_ui = rgb { 13 157 219 }
+}
+DVD = {
+	color = rgb { 10 10 10 }
+	color_ui = rgb { 10 10 10 }
+}
+
+
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }

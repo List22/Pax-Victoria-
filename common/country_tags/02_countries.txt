@@ -1,2 +1,4 @@
 KOS	= "countries/Kosovo.txt"
 PAP	= "countries/Papal States.txt"
+SAR	= "countries/Sardinia.txt"
+DVD	= "countries/Order of Devildom.txt"

@@ -10,18 +10,20 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = FRA
+		owner = ENG
 		add_core_of = SEN
 		victory_points = {
 			4948 5 
 		}
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
 			air_base = 4
 			4948 = {
 				naval_base = 3
 			}
 		}
+		add_extra_state_shared_building_slots = 1
 	}
 
 	provinces={

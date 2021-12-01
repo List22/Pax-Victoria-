@@ -1,4 +1,4 @@
-﻿capital = 2
+﻿capital = 114
 
 # Starting tech
 set_technology = {
@@ -6,7 +6,7 @@ set_technology = {
 }
 
 
-set_convoys = 15
+set_convoys = 20
 
 1939.1.1 = {
 	
@@ -53,43 +53,24 @@ set_convoys = 15
 	}
 }
 
-# Italy Puppets the Pope ;)
-ITA = {
-	if = {
-		limit = {
-			OR = {
-				has_dlc = "Together for Victory"
-			}
-		}
-		set_autonomy = {
-			target = PAP
-			autonomous_state = autonomy_puppet
-		}
-		else = {
-			puppet = PAP
-		}
-	}
-}
-
-
 set_politics = {
 	ruling_party = neutrality
-	last_election = "1936.1.1"
+	last_election = "1922.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
 	democratic = 6
-	fascism = 1
-	communism = 43
-	neutrality = 50
+	fascism = 3
+	communism = 11
+	neutrality = 80
 }
 
 create_country_leader = {
-	name = "Pope Pius XI"
+	name = "Victor Emmanuel III"
 	desc = ""
-	picture = "gfx/leaders/ITA/Portrait_Italy_Generic_1.dds"
+	picture = "gfx/leaders/ITA/Portrait_Italy_Victor_Emmanuel_III.dds"
 	ideology = despotism
 	traits = {
 		#

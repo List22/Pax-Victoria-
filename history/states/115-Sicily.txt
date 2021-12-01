@@ -6,7 +6,7 @@ state={
 	
 	state_category = city
 	history={
-		owner = ITA
+		owner = DVD
 		victory_points = {
 			10074 20 
 		}
@@ -15,9 +15,9 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			air_base = 10
-			dockyard = 1
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 6
 			10074 = {
 				naval_base = 2
 			}
@@ -32,11 +32,12 @@ state={
 			}
 		}
 		add_core_of = ITA
+		add_core_of = DVD
 	}
 
 	provinces={
 		1009 1156 3857 4014 4159 7059 7147 10074 12047 
 	}
 
-	local_supplies=0.0 
+	local_supplies=3.0 
 }
