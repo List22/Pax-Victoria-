@@ -6,7 +6,7 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = SPR
+		owner = WES
 		add_core_of = WES
 		buildings = {
 			infrastructure = 1
@@ -23,5 +23,5 @@ state={
 		4920 5012 7979 8038 8111 10875
 	}
 
-	local_supplies=0.0 
+	local_supplies=1.0 
 }

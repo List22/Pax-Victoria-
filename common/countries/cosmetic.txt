@@ -1,28 +1,15 @@
-# British Colonies
+
 COLONY_UK = {
     color = rgb { 201 56 93 }
     color_ui = rgb { 201 56 93 }
 }
-COLONY_SA = { # Used for Namibia
-    color = rgb { 195 107 160 }
-    color_ui = rgb { 195 107 160 }
+COLONY_GER = {
+    color = HSV { 0.1 0.15 0.4 }
+    color_ui = rgb { 138 155 116 }
 }
-# french Colonies
-ALG_FR = {
-    color = rgb { 62 99 193 }
-    color_ui = rgb { 62 99 193 }
-}
-FWA_FR = {
-    color = rgb { 62 99 193 }
-    color_ui = rgb { 62 99 193 }
-}
-TUN_FR = {
-    color = rgb { 62 99 193 }
-    color_ui = rgb { 62 99 193 }
-}
-MOR_FR = {
-    color = rgb { 62 99 193 }
-    color_ui = rgb { 62 99 193 }
+COLONY_SPR = {
+    color = rgb { 242 205 94 }
+    color_ui = rgb { 242 205 94 }
 }
 
 

@@ -6,7 +6,7 @@ state={
 	
 	state_category = pastoral
 	history={
-		owner = FRA
+		owner = DAH
 		add_core_of = DAH
 		victory_points = {
 			10919 1
@@ -16,7 +16,9 @@ state={
 			10919 = {
 				naval_base = 1
 			}
+			industrial_complex = 1
 		}
+		add_extra_state_shared_building_slots = 1
 	}
 
 	provinces={

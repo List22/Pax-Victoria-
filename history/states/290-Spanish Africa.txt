@@ -12,13 +12,14 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = MOR
 		add_core_of = MOR
 		victory_points = {
 			9945 3
 		}
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
 			air_base = 3
 			12100 = {
 				naval_base = 3

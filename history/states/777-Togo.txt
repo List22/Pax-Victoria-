@@ -3,7 +3,7 @@ state={
 	name="STATE_777"
 
 	history={
-		owner = FRA
+		owner = TOG
 		add_core_of = TOG
 		victory_points = {
 			1951 1
@@ -14,9 +14,9 @@ state={
 				naval_base = 1
 
 			}
-
+			industrial_complex = 1
 		}
-
+		add_extra_state_shared_building_slots = 1
 	}
 
 	provinces={
@@ -26,5 +26,5 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 
-	local_supplies=0.0 
+	local_supplies=1.0 
 }

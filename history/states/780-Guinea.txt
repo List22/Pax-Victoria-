@@ -6,13 +6,14 @@ state={
 	
 	state_category = pastoral
 	history={
-		owner = ENG
+		owner = GNA
 		add_core_of = GNA
 		victory_points = {
 			1909 1 
 		}
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
 			1909 = {
 				naval_base = 1
 			}
@@ -23,5 +24,5 @@ state={
 		1909 4957 5039 8008 12802 12858
 	}
 
-	local_supplies=1.0 
+	local_supplies=2.0 
 }

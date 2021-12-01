@@ -9,18 +9,19 @@ state={
 		rubber=2 # was: 3
 	}
 	history={
-		owner = ENG
+		owner = NGA
 		add_core_of = NGA
 		buildings = {
 			infrastructure = 2
-			arms_factory = 0
+			arms_factory = 1
 			industrial_complex = 1
 			2050 = {
 				naval_base = 3
 			}
 		}
+		add_extra_state_shared_building_slots = 1
 		victory_points = {
-			2050 1
+			2050 3
 		}
 
 	}
