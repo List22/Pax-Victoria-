@@ -6,8 +6,9 @@ state={
 	state_category = small_island
 
 	history={
-		owner = GER
+		owner = KNJ
 		add_core_of = MAD
+		add_core_of = KNJ
 		buildings = {
 			infrastructure = 2
 			13017 = {

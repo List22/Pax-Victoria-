@@ -11,10 +11,11 @@ state={
 	}
 
 	history={
-		owner = BEL
+		owner = COG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
+			arms_factory = 1
 			10968 = {
 				naval_base = 1
 			}
@@ -25,7 +26,7 @@ state={
 		victory_points = {
 			5117 3 
 		}
-			add_core_of = COG
+		add_core_of = COG
 	}
 
 	provinces={

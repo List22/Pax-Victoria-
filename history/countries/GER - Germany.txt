@@ -160,15 +160,47 @@ if = {
 		target = DAH
 		autonomous_state = autonomy_puppet
 	}
+	set_autonomy = {
+		target = CTA
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = ETA
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = NMB
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = ANG
+		autonomous_state = autonomy_puppet
+	}
 	else = {
 		puppet = TOG
 		puppet = DAH
+		puppet = CTA
+		puppet = NMB
+		puppet = ANG
+		puppet = ETA
 	}
 }
 TOG = {
 	set_cosmetic_tag = COLONY_GER
 }
 DAH = {
+	set_cosmetic_tag = COLONY_GER
+}
+CTA = {
+	set_cosmetic_tag = COLONY_GER
+}
+NMB = {
+	set_cosmetic_tag = COLONY_GER
+}
+ANG = {
+	set_cosmetic_tag = COLONY_GER
+}
+ETA = {
 	set_cosmetic_tag = COLONY_GER
 }
 

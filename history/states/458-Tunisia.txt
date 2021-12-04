@@ -9,8 +9,9 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = NAU
 		add_core_of = TUN
+		add_core_of = NAU
 		victory_points = {
 			11969 10 
 		}
@@ -23,6 +24,7 @@ state={
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
+			arms_factory = 1
 			air_base = 8
 			9994 = {
 				naval_base = 8

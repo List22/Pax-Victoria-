@@ -221,12 +221,40 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = EGY
-		autonomous_state = autonomy_satellite
+		target = SUD
+		autonomous_state = autonomy_puppet
 	}
 	set_autonomy = {
-		target = SUD
+		target = KEN
 		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = UGA
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = TZN
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = MZB
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = ZIM
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = ZAM
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = MLW
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = BOT
+		autonomous_state = autonomy_puppet
 	}
 	else = {
 		puppet = MAL
@@ -239,7 +267,15 @@ if = {
 		puppet = LIB
 		puppet = GHA
 		puppet = NGA
-		puppet = EGY
+		puppet = SUD
+		puppet = KEN
+		puppet = UGA
+		puppet = TZN
+		puppet = MZB
+		puppet = ZIM
+		puppet = ZAM
+		puppet = BOT
+		puppet = MLW
 	}
 }
 SEN = {
@@ -269,7 +305,30 @@ NGA = {
 SUD = {
 	set_cosmetic_tag = COLONY_UK
 }
-
+KEN = {
+	set_cosmetic_tag = COLONY_UK
+}
+UGA = {
+	set_cosmetic_tag = COLONY_UK
+}
+TZN = {
+	set_cosmetic_tag = COLONY_UK
+}
+MZB = {
+	set_cosmetic_tag = COLONY_UK
+}
+ZIM = {
+	set_cosmetic_tag = COLONY_UK
+}
+ZAM = {
+	set_cosmetic_tag = COLONY_UK
+}
+MLW = {
+	set_cosmetic_tag = COLONY_UK
+}
+BOT = {
+	set_cosmetic_tag = COLONY_UK
+}
 
 if = {
 	limit = { has_dlc = "Together for Victory" }

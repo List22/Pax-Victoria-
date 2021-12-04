@@ -9,13 +9,15 @@ state={
 		rubber=1 # was: 1
 	}
 	history={
-		owner = FRA
+		owner = CTA
 		add_core_of = RCG
+		add_core_of = CTA
 		victory_points = {
-			8193 2
+			8193 3
 		}
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
 			12975 = {
 				naval_base = 1
 			}

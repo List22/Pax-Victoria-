@@ -12,6 +12,22 @@ DVD = {
 	color = rgb { 10 10 10 }
 	color_ui = rgb { 10 10 10 }
 }
+CTA = {
+	color = rgb { 68 148 87 }
+	color_ui = rgb { 68 148 87 }
+}
+ETA = {
+	color = rgb { 199 159 26 }
+	color_ui = rgb { 199 159 26 }
+}
+NAU = {
+	color = rgb { 166 2 242 }
+	color_ui = rgb { 166 2 242 }
+}
+KNJ = {
+	color = rgb { 230 230 230 }
+	color_ui = rgb { 230 230 230 }
+}
 
 
 GER = {
@@ -236,8 +252,8 @@ PRU = {
 	color_ui = rgb { 255 246 255 }
 }
 SAF = {
-	color = rgb { 203 138 74 }
-	color_ui = rgb { 203 138 74 }
+	color = rgb { 242 186 2 }
+	color_ui = rgb { 242 186 2 }
 }
 SAU = {
 	color = rgb { 171 190 152 }

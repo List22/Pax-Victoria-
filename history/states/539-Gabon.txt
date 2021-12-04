@@ -3,8 +3,9 @@ state={
 	name="STATE_539"
 
 	history={
-		owner = FRA
+		owner = CTA
 		add_core_of = GAB
+		add_core_of = CTA
 		victory_points = {
 			5139 1 
 		}
@@ -14,7 +15,7 @@ state={
 				naval_base = 1
 
 			}
-
+			industrial_complex = 1
 		}
 
 	}

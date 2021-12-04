@@ -7,13 +7,15 @@ state=
 	state_category = rural
 	
 	history= {
-		owner = GER
+		owner = ETA
 		add_core_of = ERI
+		add_core_of = ETA
 		victory_points = {
-			12766 1
+			12766 3
 		}
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
 			air_base = 3
 			12766 = {
 				naval_base = 3

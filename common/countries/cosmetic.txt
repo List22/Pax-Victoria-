@@ -11,6 +11,10 @@ COLONY_SPR = {
     color = rgb { 242 205 94 }
     color_ui = rgb { 242 205 94 }
 }
+COLONY_BEL = {
+    color = rgb { 193 171 8 }
+    color_ui = rgb { 193 171 8 }
+}
 
 
 MAL_UK = {

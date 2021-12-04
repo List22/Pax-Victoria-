@@ -4,22 +4,23 @@ state={
 	name="STATE_542"
 	manpower = 234000
 	
-	state_category = wasteland
+	state_category = pastoral
 	
 	resources={
 		chromium=90 # was: 168
 	}
 
 	history={
-		owner = GER
+		owner = BOT
 		buildings = {
 			infrastructure = 1
+			industrial_complex = 1
 		}
 		add_core_of = BOT
 		victory_points = {
 			8214 1
 		}
-
+		add_extra_state_shared_building_slots = 1
 	}
 
 	provinces={
