@@ -4,12 +4,12 @@ state={
 	name="STATE_14"
 	manpower = 2396600
 	
-	state_category = city
+	state_category = large_town
 
 	history={
-		owner = FRA
+		owner = BRI
 		victory_points = {
-			3552 20
+			3552 15
 		}
 		victory_points = {
 			6536 5
@@ -19,7 +19,9 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			dockyard = 5
+			dockyard = 1
+			arms_factory = 1
+			industrial_complex = 3
 			air_base = 5
 			3552 = {
 				naval_base = 10
@@ -35,16 +37,12 @@ state={
 		}
 		add_core_of = FRA
 		add_core_of = BRI
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-			}
-		}
+		add_extra_state_shared_building_slots = 1
 	}
 
 	provinces={
 		542 3552 3758 6536 6548 6572 9495 9510 9525 11508 
 	}
 
-	local_supplies=0.0 
+	local_supplies=3.0 
 }

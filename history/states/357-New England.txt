@@ -9,7 +9,7 @@ state={
 
 
 	history={
-		owner = USA
+		owner = KOC
 		buildings = {
 			infrastructure = 4 #was: 7
 			arms_factory = 1
@@ -26,7 +26,8 @@ state={
 			}
 
 		}
-		add_core_of = USA
+		add_core_of = KOC
+		set_demilitarized_zone = yes
 		victory_points = {
 			6732 20 
 		}

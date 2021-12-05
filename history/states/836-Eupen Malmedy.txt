@@ -1,0 +1,21 @@
+state={
+	id=836
+	name="STATE_836"
+	provinces={
+		3488 
+	}
+	state_category = pastoral
+	history = {
+		owner = GER
+		add_core_of = GER
+		add_core_of = BEL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_extra_state_shared_building_slots = 1
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
