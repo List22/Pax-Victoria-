@@ -1,0 +1,7 @@
+
+
+graphical_culture = south_american_gfx
+graphical_culture_2d = south_american_2d
+
+color = rgb { 212 214 176 }
+color_ui = rgb { 212 214 176 }
