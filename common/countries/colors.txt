@@ -865,3 +865,18 @@ NYC = {
 	color = rgb { 144 178 255 }
 	color_ui = rgb { 144 178 255 }
 }
+RRG = {
+    color = rgb { 212 214 176 }
+    color_ui = rgb { 212 214 176 }
+}
+MXR = {
+    color = rgb { 184 18 0 }
+    color_ui = rgb { 184 18 0 }
+}
+YUC = {
+    color = rgb { 9 97 16 }
+    color_ui = rgb { 9 97 16 }
+}
+CEN = {
+	color = rgb { 180 20 20 }
+	color_ui = rgb { 180 20 20 }
