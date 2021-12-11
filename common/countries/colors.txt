@@ -880,3 +880,7 @@ YUC = {
 CEN = {
 	color = rgb { 180 20 20 }
 	color_ui = rgb { 180 20 20 }
+}
+ALK = {
+	color = rgb { 0, 0, 139 }
+	color_ui = rgb { 0, 0, 139 }
