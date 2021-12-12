@@ -3,11 +3,12 @@ state={
 	name="STATE_838"
 	
 	history={
-		owner=YUG
+		owner=VOJ
 	}
+	add_core_of = VOJ
 	
 	provinces={
-		11580 
+		11580 11577
 	}
 	manpower=11624
 	buildings_max_level_factor=1.000
