@@ -68,7 +68,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Bora Drljača"
 	desc = ""
-	picture = "gfx/leaders/ALG/r56_portrait_ALG_Ferhat_Abbas.dds"
+	picture = "gfx/leaders/VOJ/PV_VOJ_Bora_Drljaca.dds"
 	ideology = despotism
 	traits = {
 		#
