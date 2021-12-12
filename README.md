@@ -1,2 +1,4 @@
-Top Sekeret))) Mod for the moment.
-MAKE SURE TO PUSH EVERYTHING! Map is the most important thing at the moment!
+**[TOP SECRET]**
+Welcome to Pax Victoria, a new alternate timeline for HOI4.
+
+**PLEASE PUSH EVERYTHING**
