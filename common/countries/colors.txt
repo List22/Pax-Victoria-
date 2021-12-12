@@ -28,8 +28,6 @@ NAU = {
 	color = rgb { 166 2 242 }
 	color_ui = rgb { 166 2 242 }
 }
-
-
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
@@ -884,3 +882,8 @@ CEN = {
 ALK = {
 	color = rgb { 0, 0, 139 }
 	color_ui = rgb { 0, 0, 139 }
+{
+CSR = {
+	color = rgb { 255, 36, 0 }
+	color_ui = rgb { 255, 36, 0 }
+
