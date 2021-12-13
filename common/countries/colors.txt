@@ -886,7 +886,7 @@ ALK = {
 CSR = {
 	color = rgb { 255, 36, 0 }
 	color_ui = rgb { 255, 36, 0 }
-}
+{
 GAL = {
 	color = rgb { 215, 0, 64 }
 	color_ui = rgb { 215, 0, 64 }
