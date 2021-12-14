@@ -1,5 +1,17 @@
 #reload countrycolors
 
+PCU = {
+	color = rgb { 255 174 66 }
+	color_ui = rgb { 255 174 66 }
+}
+AFT = {
+	color = rgb { 48 25 52 }
+	color_ui = rgb { 48 25 52 }
+}
+DST = {
+	color = rgb { 137 207 240 }
+	color_ui = rgb {137 207 240 }
+}
 PAP = {
 	color = rgb { 250 255 156 }
 	color_ui = rgb { 250 255 156 }
@@ -27,6 +39,10 @@ ETA = {
 NAU = {
 	color = rgb { 166 2 242 }
 	color_ui = rgb { 166 2 242 }
+}
+PCM = {
+	color = rgb { 148 27 27 }
+	color_ui = rgb { 148 27 27 }
 }
 
 

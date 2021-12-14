@@ -1,0 +1,15 @@
+characters={
+	PCM_antonin_artaud={ #Communist Leader
+		name=PCM_antonin_artaud
+		portraits={
+			civilian={
+				large="gfx/leaders/FRA/Portrait_France_Philippe_Petain.dds"
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

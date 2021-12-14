@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = ACP
+		owner = PCU
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
@@ -16,7 +16,7 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = ACP
+		add_core_of = PCU
 		victory_points = {
 			3513 1 
 		}
