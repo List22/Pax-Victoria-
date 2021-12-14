@@ -11,15 +11,15 @@ state={
 	}
 
 	history={
-		owner = MEX
+		owner = MXR
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			dockyard = 1
 			12810 = {
 				naval_base = 3
 			}
 		}
-		add_core_of = MEX
+		add_core_of = MXR
 		victory_points = {
 			12810 5
 		}
@@ -32,6 +32,4 @@ state={
 		8079 8089 10732 12810 
 	}
 	
-
-	local_supplies=0.0 
 }
