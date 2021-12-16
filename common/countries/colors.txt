@@ -898,13 +898,18 @@ CEN = {
 	color_ui = rgb { 180 20 20 }
 }
 ALK = {
-	color = rgb { 0, 0, 139 }
-	color_ui = rgb { 0, 0, 139 }
+	color = rgb { 0 0 139 }
+	color_ui = rgb { 0 0 139 }
 }
 CSR = {
-	color = rgb { 255, 36, 0 }
-	color_ui = rgb { 255, 36, 0 }
+	color = rgb { 255 36 0 }
+	color_ui = rgb { 255 36 0 }
 }
 GAL = {
-	color = rgb { 215, 0, 64 }
-	color_ui = rgb { 215, 0, 64 }
+	color = rgb { 215 0 64 }
+	color_ui = rgb { 215 0 64 }
+}
+VOJ = {
+	color = rgb { 20 40 255 }
+	color_ui = rgb { 20 40 255 }
+}
