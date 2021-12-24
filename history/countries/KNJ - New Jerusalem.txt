@@ -26,7 +26,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Albert Einstein"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	picture = "gfx/leaders/KNJ/PV_KNJ_Albert_Einstein.dds"
 	ideology = despotism
 	traits = {
 		#
